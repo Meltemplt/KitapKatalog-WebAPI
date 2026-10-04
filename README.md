@@ -1,10 +1,10 @@
-# 📚 Kitap & Değerlendirme Kataloğu (RESTful Web API)
+# Kitap & Değerlendirme Kataloğu (RESTful Web API)
 
 ASP.NET Core 8 Web API ve Entity Framework Core kullanılarak geliştirilmiş; ilişkisel veri modeli, dinamik arama, sayfalama ve editoryal web arayüzüne sahip uçtan uca kitap kütüphanesi uygulaması.
 
 ---
 
-## ✨ Öne Çıkan Özellikler
+# Öne Çıkan Özellikler
 
 - **İlişkisel Veri Yönetimi (1:N):** `Books` ve `Reviews` tabloları arasında Foreign Key ilişkisi ve anlık ortalama puan/yorum sayısı hesaplama.
 - **Performans Odaklı Sayfalama (Pagination):** LINQ tabanlı `Skip` ve `Take` mekanizmasıyla optimize veri akışı.
@@ -14,7 +14,7 @@ ASP.NET Core 8 Web API ve Entity Framework Core kullanılarak geliştirilmiş; i
 
 ---
 
-## 🛠️ Kullanılan Teknolojiler
+# Kullanılan Teknolojiler
 
 - **Backend:** C#, .NET 8, ASP.NET Core Web API
 - **ORM & Veritabanı:** Entity Framework Core, Microsoft SQL Server
@@ -23,7 +23,7 @@ ASP.NET Core 8 Web API ve Entity Framework Core kullanılarak geliştirilmiş; i
 
 ---
 
-## 📌 API Uç Noktaları
+# API Uç Noktaları
 
 | Metot | Uç Nokta | Açıklama |
 | :--- | :--- | :--- |
@@ -35,7 +35,7 @@ ASP.NET Core 8 Web API ve Entity Framework Core kullanılarak geliştirilmiş; i
 
 ---
 
-## 💻 Kurulum ve Çalıştırma
+# Kurulum ve Çalıştırma
 
 1. Projeyi klonlayın:
    ```bash
